@@ -1,0 +1,8 @@
+Team 1::a::c::60
+Team 2::b::d::71
+Team 1::John::Ringo::-40
+Team 2::Paul::George::93
+Team 1::a::c::200
+Team 2::b::d::200
+Team 1::John::Ringo::162
+Team 2::Paul::George::71
