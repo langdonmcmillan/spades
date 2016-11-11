@@ -1,0 +1,22 @@
+.top-buffer {
+    margin-top: 15px;
+}
+
+.card {
+        max-width: 6vw;
+        margin: 5px;
+}
+
+.clickableCard:hover {
+    border-width: 2px;
+    border-color: yellow;
+    border-style: solid;
+}
+
+#playedCard {
+    height: 8vh;
+}
+
+#playerCards {
+    margin-top: calc(15vh);
+}
