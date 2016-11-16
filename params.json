@@ -1,6 +1,6 @@
 {
   "name": "Spades",
   "tagline": "",
-  "body": "Spades in Java\r\nConsole only version is for four players and in working condition.\r\nWeb app version is in progress, designed for one player to play with three computer players.\r\n",
+  "body": "# Spades in Java\r\nConsole only version is for four players and in working condition.\r\nWeb app version is in progress, designed for one player to play with three computer players.\r\n\r\n## Console Version\r\n![Console Version](https://raw.githubusercontent.com/langdonmcmillan/spades/master/SpadesConsole.png)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
